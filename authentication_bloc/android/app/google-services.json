@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601633551033",
+    "project_id": "authentication-bloc-ff984",
+    "storage_bucket": "authentication-bloc-ff984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601633551033:android:1c0107316b13d5801f2168",
+        "android_client_info": {
+          "package_name": "com.example.authentication_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601633551033-dgbtrt99uhs1hfvuuk1ho0u65p1jtuco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqZ_FMQkAnKpGzA5O66bkpeBHrDKYWBzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601633551033-dgbtrt99uhs1hfvuuk1ho0u65p1jtuco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
